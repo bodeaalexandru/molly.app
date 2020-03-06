@@ -6,7 +6,8 @@
   > After you install node -> open a terminal -> npm install -g ionic
 ## Running
 > Open MollyApp folder in an IDE
-> Open a terminal -> run 'npm install --save-dev'
+> Open a terminal -> run 'npm install --save-dev
+
 > run "npm install -D -E @ionic/lab"
 > Run in terminal -> 'ionic serve --lab'
 
